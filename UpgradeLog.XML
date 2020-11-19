@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReNamer.NET">
+</Property><Property Name="Solution File" Value="D:\Projects\C#\ReNamer.NET\ReNamer.NET.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\C#\ReNamer.NET\ReNamer.NET.suo">
+</Property><Property Name="Date" Value="domenica 13 settembre 2009">
+</Property><Property Name="Time" Value="08:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReNamer.NET.sln" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ReNamer.NET.suo" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET.suo">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\ReNamer.NET.csproj" Description="Project file successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\ReNamer.NET.csproj">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\ReNamer.NET.csproj.user" Description="Project user file successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\ReNamer.NET.csproj.user">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\About.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\About.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\About.Designer.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormExpired.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormExpired.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormExpired.Designer.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormExpired.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormMain.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormMain.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormMain.Designer.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormReport.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormReport.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormReport.Designer.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormReport.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\IconExtractor.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\IconExtractor.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Program.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Program.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Properties\Settings.settings" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\History.txt" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\History.txt">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Icon.ico" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Icon.ico">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\About.resx" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\About.resx">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormExpired.resx" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormExpired.resx">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormMain.resx" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\FormReport.resx" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\FormReport.resx">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\Properties\Resources.resx" Description="File successfully backed up as D:\Projects\C#\ReNamer.NET\Backup\ReNamer.NET\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\ReNamer.NET.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ReNamer.NET" Source="ReNamer.NET\ReNamer.NET.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReNamer.NET.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ReNamer.NET.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReNamer.NET" Source="ReNamer.NET\ReNamer.NET.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

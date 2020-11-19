@@ -1,0 +1,22 @@
+ReNamer.NET - History
+----------------------
+
+0.2.2.0
+- Interface improvements
+- Initial PreFinal warrenty disclaimer
+- Removed expiration date
+
+0.2.1.0
+- Added image resize during renaming
+- New rename engine
+
+0.2.0.0
+- Added extension modification
+- Added case options
+- Added disabling counter (old main function)
+- Some functions disabled (image resize, etc)
+
+0.1.0.0
+- First public alpha release
+- Some functions disabled (datestamp, image resize, etc)
+- Expiration date: 1 september 2009

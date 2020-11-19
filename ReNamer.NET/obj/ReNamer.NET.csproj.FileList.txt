@@ -1,0 +1,11 @@
+obj\Debug\ReNamer.NET.exe
+obj\Debug\ReNamer.NET.pdb
+bin\Debug\ReNamer.NET.exe
+bin\Debug\ReNamer.NET.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Files_Renamer.NET.About.resources
+obj\Debug\ReNamer.NET.csproj.GenerateResource.Cache
+obj\Debug\Files_Renamer.NET.FormExpired.resources
+obj\Debug\Files_Renamer.NET.Properties.Resources.resources
+obj\Debug\Files_Renamer.NET.FormMain.resources
+obj\Debug\Files_Renamer.NET.FormReport.resources
